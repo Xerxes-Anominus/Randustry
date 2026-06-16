@@ -1,15 +1,20 @@
 name: xr
 displayName: Randustry
 
-description: "Gambling"
-subtitle: "II"
+description: "Gambling
+
+Update:
+_Ver I: Unit Health And Armor.
+_Ver II: Unit Speed And Turret Reload.
+_Ver III: Drills Drill Time, Crafters Craft Time And Generators Power Production."
+subtitle: "Ver III"
 
 author: "[#0000ff[]]Xe[#0066ff[]]rx[#00ccff[]]es[[]]"
 
-version: "II"
+version: "III"
 minGameVersion: 158
 
-hidden: true
+hidden: false
 java: false
 
 dependencies: [
