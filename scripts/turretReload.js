@@ -23,4 +23,4 @@ Blocks.cyclone.reload = reload(Blocks.cyclone.reload);
 Blocks.foreshadow.reload = reload(Blocks.foreshadow.reload);
 
 Blocks.spectre.reload = reload(Blocks.spectre.reload);
-Blocks.meldown.reload = reload(Blocks.meldown.reload);
+Blocks.meltdown.reload = reload(Blocks.meltdown.reload);
