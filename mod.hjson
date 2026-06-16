@@ -2,14 +2,14 @@ name: xr
 displayName: Randustry
 
 description: "Gambling"
-subtitle: "I"
+subtitle: "II"
 
 author: "[#0000ff[]]Xe[#0066ff[]]rx[#00ccff[]]es[[]]"
 
-version: "I"
+version: "II"
 minGameVersion: 158
 
-hidden: false
+hidden: true
 java: false
 
 dependencies: [
