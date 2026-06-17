@@ -1,5 +1,5 @@
 function speed(a) {
-    return (Math.ceil(a * (Math.random()*2)));
+    return (a * (Math.random()*2));
 }
 
 UnitTypes.alpha.speed = speed(UnitTypes.alpha.speed);

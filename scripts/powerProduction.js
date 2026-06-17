@@ -1,5 +1,5 @@
 function Ran(a) {
-    return (Math.ceil(a * (Math.random() * 2)));
+    return (a * (Math.random() * 2));
 }
 Blocks.combustionGenerator.powerProduction = Ran(Blocks.combustionGenerator.powerProduction);
 Blocks.steamGenerator.powerProduction = Ran(Blocks.steamGenerator.powerProduction);
